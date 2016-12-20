@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: jackson-annotations-2.5.0.jar
+ jackson-databind-2.5.0.jar
+ jgap-examples.jar
+ jackson-core-2.5.0.jar
+ jgap.jar
+Main-Class: b2l
+
